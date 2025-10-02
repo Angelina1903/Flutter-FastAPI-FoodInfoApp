@@ -4,15 +4,15 @@ _Note: this is a take home assignmentfor a technical test_
 
 ## Requirements and Progress 
 
-| Feature | Progress |
-|---|Backend|---|
-| Food Search Endpoint | 100% |
-| Food Details Endpoint | 0% |
-| API Documentation | 0% |
-|---|Backend|---|
-| Search Screen | 100% |
-| Key Nutrients Screen | 20% |
-| Basic Navigation | 80% |
+|    Feature |    Progress |   
+|   ---|  Backend|  ---|  
+|   Food Search Endpoint |   100% |  
+|   Food Details Endpoint |   0% |  
+|   API Documentation |   0% |  
+|  ---|  Backend|  ---|  
+|   Search Screen |   100% |  
+|   Key Nutrients Screen |   20% |  
+|   Basic Navigation |   80% |  
 
 ## Setup Instructions
 # Prerequisites
