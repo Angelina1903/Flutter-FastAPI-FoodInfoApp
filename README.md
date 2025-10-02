@@ -3,6 +3,7 @@ An app that allows searching up a `Food` and it's information, built with Flutte
 _Note: this is a take home assignmentfor a technical test_
 
 ## Requirements and Progress 
+
 | Feature | Progress |
 |---|Backend|---|
 | Food Search Endpoint | 100% |
